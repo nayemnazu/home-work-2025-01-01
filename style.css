@@ -1,0 +1,23 @@
+
+/* css start */
+.box-model{
+    width: 500px;
+    height: 200px;
+    border: 2px dotted red;
+}
+.name{
+    color: green;
+    padding: 10px;
+    margin: 5px;
+}
+#p-tag{
+    padding: 10px;
+    color: red;
+}
+.imgage-tag{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+}
+/* css end */
